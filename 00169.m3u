@@ -1,13 +1,6 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/ar/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_AR1.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml.gz,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml"
-
-
-#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="TDA",GUIA DE CANALES
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-
-#EXTINF:-1 tvg-id="InformacionPeriodistica.ar"  tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="TDA",IP 
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg"  group="TDA", Canal E
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRONICA" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/cronicatv.jpg"  group-title="TDA",CRONICA  
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
@@ -37,8 +30,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/ln.jpg?v=1686165524"  group-title="TDA",La Nación +
 https://sitsastr.qvixsolutions.com/stsa_ln/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-group="TDA", Canal E
-https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="TDA", NEO TV DIGITAL 
@@ -54,8 +46,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/chunklist_w273656308.m
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png"  group-title="TDA",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/tec.png" group-title="TDA", TEC 
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TLX.png" group-title="TDA",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
@@ -65,10 +56,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="CN23.ar"tvg-logo="http://www.radiosargentina.com.ar/png/VI-UNIFE.png" group-title="TDA",UNIFE
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="TDA",GenTV
-https://inliveserver.com:1936/14056/14056/chunklist_w1071150122.m3u8
 #EXTINF:-1 tvg-id="ViajarTV.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_viajar_m.png" group-title="TDA",Viajar TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
@@ -78,12 +65,9 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="5f523aa5523ae000074745ec" 205" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="NOTICIAS",Telefe Noticias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-CN247.png" group-title="NOTICIAS",CN 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NGFE.png?raw=true" tvg-group="NOTICIAS", Norte Grande Federal
+#EXTINF:-1  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NGFE.png?raw=true"  group="NOTICIAS", Norte Grande Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/chacratv.jpg?v=1625409121" group-title="NOTICIAS",Chacra TV
@@ -95,10 +79,7 @@ http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
 http://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="NOTICIAS", TELEDIARIO 
 https://stmvideo2.livecastv.com/telediario/telediario/chunklist_w1753653230.m3u8
-#EXTINF:-1 tvg-id="61f94a2866401100074e9dee" 208" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="NOTICIAS",Chilevision Noticias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="60492e6d7f3f560007ab0f62" 959" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="NOTICIAS",Estrella News
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="NOTICIAS",France24 ESP
 https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
@@ -141,8 +122,6 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5a6b92f6e22a617379789618" 204" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20200915T081312.png"   /5a6b92f6e22a617379789618  group-title="NOTICIAS",CBSN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5bdce04659ee03633e758130" 217" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/39/USAK3508713A20200730102745.png"   /5bdce04659ee03633e758130  group-title="NOTICIAS",WeatherNation
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png" group-title="NOTICIAS",canal 79 
@@ -178,12 +157,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-name="FOX SPORTS" tvg-logo="https://static.claro.com.pe/img/logos/fox-sports.jpg"  group-title="DEPORTES",FOX SPORTS 1
 http://190.61.57.2:1010/play/a04i/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" tvg-name="FOX SPORTS 2" tvg-logo="https://static.claro.com.pe/img/logos/logo-fox-sport-2.jpg"  group-title="DEPORTES",FOX SPORTS 2  
-http://181.78.4.186:8000/play/a0fg/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-name="FOX SPORTS 3" tvg-logo="https://static.claro.com.pe/img/logos/logo-fox-sport-3.jpg"  group-title="DEPORTES",FOX SPORTS 3  
-http://181.78.4.186:8000/play/a0fh/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2021/09/dplnews_tigo_vc_020921-696x569.png" group-title="DEPORTES", Tigo Sports 
@@ -192,36 +165,11 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ESBC2700009B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="DEPORTES" , FIFA+
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1460&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20221116T013447SQUARE.png_20221116013447.png" group-title="DEPORTES" , Golazo Network
-https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
-
-#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" 970" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20230125T022136SQUARE.png_20230125022137.png"     group-title="DEPORTES",beIN SPORTS XTRA Ñ
-https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
-#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" 740" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20230125T022136SQUARE.png_20230125022137.png"    group-title="DEPORTES",beIN SPORTS XTRA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-id="ESBA1500002B5" 4054" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/60/USAJ4000004ZT_20210525T051725.png" group-title="DEPORTES",Motorvision
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/be2e393a-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="ESAJ4500025S7" 4072" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/54/GBBA33000347P_20201029T004036.png" group-title="DEPORTES",FUEL TV
-https://i.mjh.nz/PlutoTV/60f1673d0e4370000784dc61-alt.m3u8
+
 #EXTINF:-1 tvg-id="USAJ3504705A" 1159" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/22/USAJ3504705A_20210525T051625.png" group-title="DEPORTES",Stadium
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USBA300034DB" 1161" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300034DB_20210525T051534.png" group-title="DEPORTES",Pac-12 Insider
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" https://i.imgur.com/QleHNMl.png" group-title="DEPORTES",Media inglesa
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6335a79d10efe80007297a94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="DEPORTES" , Ch Deportes
-https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60"  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="DEPORTES" , DAZN Women's Football
-https://i.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af"  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="DEPORTES" , ITV Deportes
-https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-
 
 
 #EXTINF:-1 channel-id="pluto-5de94dacb394a300099fa22a" tvg-id="5de94dacb394a300099fa22a"  tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="DEPORTES", Golf Channel
@@ -242,21 +190,9 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 channel-id="pluto-56340779a738201b4ccfeac9" tvg-id="56340779a738201b4ccfeac9" 2155" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/GBAK3504506A_20200923T100435.png" group-title="DEPORTES" , Pluto TV Sports
-https://i.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" 402" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/GBAK3504506A_20200923T100435.png" group-title="DEPORTES" , Pluto TV Deportes
-https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac8588734f8000823b7de" tvg-id="5f1ac8588734f8000823b7de" 506" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/GBAK3504506A_20200923T100435.png" group-title="DEPORTES" , Pluto TV Deportes 2
-https://i.mjh.nz/PlutoTV/5f1ac8588734f8000823b7de-alt.m3u8
-
-
-
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" 709" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/77/DEAJ0500429A_20200923T100609.png"   /5e66968a70f34c0007d050be  group-title="DEPORTES",MLB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" 708" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/GBAK3504506A_20200923T100435.png"   /5ced7d5df64be98e07ed47b6  group-title="DEPORTES",NFL Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" 713" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBA300031OT_20210525T051532.png"   /5de94dacb394a300099fa22a  group-title="DEPORTES",PGA TOUR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -274,9 +210,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f22
 
 
 
-#EXTINF:-1 tvg-id="ITBB2000001QB" 4516" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB2000001QB_20230208T013137SQUARE.png_20230208013138.png" group-title="DEPORTES" ,  Fishing TV
-https://i.mjh.nz/PlutoTV/619e22d81782bd00077f0dbd-alt.m3u8
-
 #EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" 283" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/52/GBAI5000001A_20200923T092801.png"   /5dd6dc7480e3550009133d4a  group-title="DEPORTES",Pluto TV Velocidad​
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -288,8 +221,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588
 
 #EXTINF:-1 tvg-id="5f99a772c54853000797bf18" 412" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/GBAK3504506A_20200923T100435.png"   /5f99a772c54853000797bf18  group-title="DEPORTES",Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5bd81b1053ed2c6334ea0856" 602" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/GBAK3504506A_20200923T100435.png"   /5bd81b1053ed2c6334ea0856  group-title="DEPORTES",Strongman
-https://i.mjh.nz/PlutoTV/5e1452156c07b50009d0230e-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="USBB10000058A" 1173" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB10000058A_20210525T094606.png" group-title="DEPORTES",SURF NOW TV
 https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -299,8 +231,6 @@ https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="USAJ34000090D" 1190" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/USAJ34000090D_20210525T051644.png" group-title="DEPORTES",MAVTV Select
 https://5e40ddae915641febc61168f0f1d612a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MavTV/playlist.m3u8?ads.wurl_channel=303&ads.wurl_name=MavTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="5e3ddd1a3ef73b00091d5779" 405" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/GBAK3504506A_20200923T100435.png"   /5e3ddd1a3ef73b00091d5779  group-title="DEPORTES",FITNESS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 tvg-id="Warner.Channel.(Argentina).(WARNER).ar" tvg-name="Warner Channel" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/warner.jpg?v=1686165504" group-title="SERIES", Warner Channel
@@ -373,8 +303,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5f9afb01816137000737f799" 151" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E20200730102745.png"   /5f9afb01816137000737f799  group-title="SERIES",Nosey Escándalos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 channel-id="samsung-ESBC1700001QI" tvg-id="ESBC1700001QI" 4178" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESBC1700001QI_20220511T011726.png"  group-title="SERIES",Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
 
 #EXTINF:-1 tvg-id="ESAJ380000226" 4258" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/ESAJ380000226_20201029T004343.png" group-title="SERIES",MTV Originals
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -402,13 +331,6 @@ https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://m3ugratis.com/wp-content/uploads/2022/01/Vix-smart-tv-apk.jpg" group-title="SERIES",  ViX JaJaJa
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.energeek.cl/uploads/avatars/2.jpeg" group-title="SERIES", EnerGeek 1
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.energeek.cl/uploads/avatars/2.jpeg" group-title="SERIES", Energeek 2 
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 
 
