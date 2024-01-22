@@ -655,8 +655,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" 706" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/52/USBA3000158L20200730102745.png"   /5ddd7cb2cbb9010009b4fe32  group-title="INFANTILES",Nick Jr. Club
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" 997" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/98/DEAJ700004BT_20201006T090353.png"   /5d8d08395f39465da6fb3ec4  group-title="INFANTILES",Nick Latino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="5e67e20c93312100076f3ffe" 715" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/62/ESAJ38000046O_20201029T004405.png"   /5e67e20c93312100076f3ffe  group-title="INFANTILES",Babar
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -713,11 +711,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" 177" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png"   /5fcea93ffcf94500071c4b2f  group-title="24X7",Kenan y Kel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5f1abe3ffcd659000770d88d" 310" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png"   /5f1abe3ffcd659000770d88d  group-title="24X7",La Chica Invisible
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="" tvg-name=" Los Simpsons" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png" group-title="24X7",Los angeles de Charlie
-https://i.mjh.nz/PlutoTV/63eb93cea995710008989e3a-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name=" Los Simpsons" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png" group-title="24X7", MELROSE PLACE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -728,10 +723,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acc3e061597000768d4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" Tom y Jerry" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png" group-title="24X7",CASADO CON HIJOS 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f58d45696a530007088486/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name=" Tom y Jerry" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png" group-title="24X7",,La niñera
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f58f2278490000079bc47b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name=" Tom y Jerry" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png" group-title="24X7",EL COMISARIO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c343007bcabe0007242aa6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -741,14 +732,6 @@ https://24e45240eb464bb795218803d6c61cc4.mediatailor.us-east-1.amazonaws.com/v1/
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6049295e7dcef800073c2499" 915" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png"   /6049295e7dcef800073c2499  group-title="24X7",Viaje a las estrellas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name=" El Chavo del 8" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png" group-title="24X7", NCIS
-https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" El Chavo del 8" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png" group-title="24X7", COPS
-https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" El Chavo del 8" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png" group-title="24X7", MacGyver
-https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" El Chavo del 8" tvg-logo="https://i.pinimg.com/originals/81/65/82/81658244b5f113c05ac5f0750bd323b1.png" group-title="24X7", Beverly Hills 90210
-https://i.mjh.nz/PlutoTV/63eb93a1c111bc0008fe6f5b-alt.m3u8
 
 
 
@@ -812,11 +795,6 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w530160164.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--11MA.png" group-title="REGIONALES",Canal 11 
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
-#EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-logo="https://i.imgur.com/fNaIrvV.png"  group-title="REGIONALES" ,SEIS TV
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="REGIONALES",Canal 10 Córdoba  
-https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CanalTresLaPampa.ar" tvg-logo="https://i.imgur.com/qthk2nS.png" group-title="REGIONALES",Canal 3 La Pampa 
@@ -865,11 +843,7 @@ https://streamlov.alsolnet.com/misionescuatro/live/chunklist_w70128020.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--12PM.png" group-title="REGIONALES",Madryn TV 
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="REGIONALES",Canal 9 Resistencia
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal8MardelPlata.ar" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="REGIONALES",Canal 8 Mar del Plata
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" https://i.imgur.com/QleHNMl.png" group-title="MUNDO",Las Estrellas
@@ -889,10 +863,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac7
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="USBB3200016HO" 1253" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="USBA300024TN" 1006" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",LiveNOW FOX
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",DW 
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",CGTN 
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -910,10 +881,6 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",CANAL 9
 http://138.117.4.70:8075/channel9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",CHILEVISION
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",MEGA
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
