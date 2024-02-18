@@ -19,7 +19,7 @@ https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIENCUEN.png" group-title="TDA",Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/chunklist_w1105265542.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="CANAL 9" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/canal9.jpg"  group-title="TDA",CANAL 9
-https://sitsastr.qvixsolutions.com/stsa_canal9hd/index.m3u8
+https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="TDA", America 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="TDA", Telefe
@@ -27,7 +27,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/trece.jpg" group-title="TDA", CANAL 13 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/tn.jpg?v=1625409132"  group-title="TDA",TN 
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="TDA",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
