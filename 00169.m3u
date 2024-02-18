@@ -2,16 +2,16 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg"  group-title="TDA", Canal E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/ln.jpg?v=1686165524"  group-title="TDA",La Nación +
-https://sitsastr.qvixsolutions.com/stsa_ln/index.m3u8
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRONICA" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/cronicatv.jpg"  group-title="TDA",CRONICA  
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="AMERICA 24" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/a24.jpg"  group-title="TDA",AMERICA 24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/c5n.png?v=1643311735" group-title="TDA", C5N
-https://sitsastr.qvixsolutions.com/stsa_c5n/index.m3u8
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="TDA",Canal 26 
-http://200.115.193.177/live/26hd-720/.m3u8
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 
 #EXTINF:-1 tvg-id="TVPublica.ar"  tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="TDA", TVP
