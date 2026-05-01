@@ -1,0 +1,132 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",TELPIN
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",ATCCO
+https://ola1.com.ar/atccohd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Canal E
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Unife
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Argentinisima
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",9 Televida
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Canal 11
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Telefe
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Canal 13
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" http-referrer="https://vodgc.net" group-title="FTA",El Trece 
+#EXTVLCOPT:http-referrer=https://vodgc.net
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",TN
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",NET Tv
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Bravo tv
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",NEOX TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",NGF
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",France 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Garage tv
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",TYC Sports
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Bein Sports XTRA
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",TVC
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Telerebelde
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Multivision
+https://tv.picta.cu/multivision/multivision_1.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",CLAN
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",El reino infantil
+https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Memorias Toons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Anime vision classic
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",NBC Universo
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Retrox Tv
+https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Memorias Films
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Memorias Series
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",BBC Series
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",RUNTIME Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",RUNTIME TV
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",RUNTIME Accion
+https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", Runtime Comedia
+https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", Runtime Romance
+https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",KANAL D
+https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Telemundo
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",24 Horas
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",CGTN Español 
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",C&H
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",HISTORIA
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Nature time
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",QWEST JAZZ
+https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Memorias Classic
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Xite Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl@SD" tvg-logo="https://i.imgur.com/5G5kian.png" http-referrer="https://retroplustv.com/" group-title="FTA",Retro Plus 2 
+#EXTVLCOPT:http-referrer=https://retroplustv.com/
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+
+
