@@ -49,17 +49,19 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Garage tv
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",TYC Sports
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Bein Sports XTRA
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",ESPN
-http://181.205.130.194:4000/play/a08n
+http://38.41.8.1:8000/play/a06r
 #EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",ESPN 2
-http://181.205.130.194:4000/play/a07i
+http://190.60.32.178:8178/play/a0at/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", AYM SPORT
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Claro sport
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6320d80a66666000086712d7/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRiMGQ4YzY5LTY0ZTEtNDEzNC04MTQ3LWQ4YmI0N2M3NTNmNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzYzZiZDg0Ny00ZWE5LTExZjEtYjcxNC04MmRjZjFmZjY0Y2MiLCJjbGllbnRJUCI6IjEwNC4xMDMuMjM4LjAiLCJjaXR5IjoiQnVlbm9zIEFpcmVzIiwicG9zdGFsQ29kZSI6ImMxMjA2IGFiZSIsImNvdW50cnkiOiJBUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0zNC42MTAwMDA2MTAzNTE1NiwiZGV2aWNlTG9uIjotNTguNDE5OTk4MTY4OTQ1MzEsInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6IjY4YmI4NjYxLTAyOWUtNDZiYi1hNTI3LTkxODYwYjIyYTNiMyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjY4YmI4NjYxLTAyOWUtNDZiYi1hNTI3LTkxODYwYjIyYTNiMyIsImZ3VmNJRDJDb3BwYSI6IjY4YmI4NjYxLTAyOWUtNDZiYi1hNTI3LTkxODYwYjIyYTNiMyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNjhiYjg2NjEtMDI5ZS00NmJiLWE1MjctOTE4NjBiMjJhM2IzIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSwxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3ODY2MjQxOTUzMywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5qaGlZamcyTmpFdE1ESTVaUzAwTm1KaUxXRTFNamN0T1RFNE5qQmlNakpoTTJJeiIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3Nzg3NDg4MTksImlhdCI6MTc3ODY2MjQxOSwianRpIjoiMDMyMDY5NWMtYTlkNy00MzI2LTk2NDgtMjg3OGRjZmFlODU0In0.0NjuDpt0cZRLrhzy_7AiMENOezSJAmiPRy9p9sRcYv0&masterJWTPassthrough=true
 #EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Telerebelde
 https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 #EXTINF:-1  tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Multivision
