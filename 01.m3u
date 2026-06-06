@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",TELPIN
-https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
+https://wowza.telpin.com.ar:1935/camara-rambla/smil:camara-rambla.smil/chunklist_w1476693456_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",ATCCO
 https://streamconex.com:19360/lacosta/lacosta.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Canal E
@@ -29,7 +29,7 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",TN
-https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",NET Tv
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Bravo tv
