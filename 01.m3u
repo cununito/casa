@@ -28,7 +28,7 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" http-referrer="https://vodgc.net" group-title="FTA",El Trece
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Noticias Today
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",24/7 Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",NET Tv
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
@@ -64,8 +64,8 @@ http://152.231.29.139:8000/play/a0de/index.m3u8
 http://152.231.29.139:8000/play/a0dd/index.m3u8
 #EXTINF:0 type="stream" channelId="1432" group="unsorted", ESPN 5
 http://181.205.130.194:4000/play/a085
-#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Directv Sports
-http://152.231.29.139:8000/play/a0jk/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Tigo Sports
+https://master.tucableip.com/Amistoso/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",AYM SPORT
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",ITV Deportes
@@ -82,6 +82,8 @@ https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 https://tv.picta.cu/infantil/infantil_0.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Cartoon Network
 http://181.205.130.194:4000/play/a06m
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Disney Channel 
+http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Disney Junior 
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Disney XD
@@ -104,6 +106,8 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", Canal Claro 
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Comedy Central
+http://181.119.93.83:8000/play/a1di/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Retrox Tv
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",RetroPlus
@@ -128,6 +132,9 @@ http://181.205.130.194:4000/play/a06f
 http://152.231.29.139:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="FTA",AXN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://cdn.haititivi.com/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",USA
 http://181.205.130.194:4000/play/a06v
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", Star Channel
@@ -150,10 +157,14 @@ http://45.181.122.46:8090/play/a00h
 http://181.205.130.194:4000/play/a06n
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Warner Channel
 http://181.205.130.194:4000/play/a07f
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Europa Europa
+http://181.119.93.83:8000/play/a1sr/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Golden
 http://38.44.109.41:8003/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Golden Premier
 http://38.44.109.41:8003/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Mega Cine 
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",RUNTIME Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",RUNTIME TV
@@ -168,6 +179,8 @@ https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",KANAL D
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Venevisión Int
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Las Estrellas
 http://181.205.130.194:4000/play/a07r
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",Telemundo
