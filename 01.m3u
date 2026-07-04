@@ -131,7 +131,17 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",HBO Zone
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.ts
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", HBO 2 
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/100.ts
+http://45.228.234.30:16000/play/a009
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", HBO +
+http://45.228.234.30:16000/play/a00a
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", HBO Family
+http://45.228.234.30:16000/play/a00b
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", HBO Extreme
+http://45.228.234.30:16000/play/a00c
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", Paramount 
+http://45.228.234.30:16000/play/a004
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", DHE
+http://45.228.234.30:16000/play/a003
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", Universal
 http://181.205.130.194:4000/play/a06f
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA", FX
