@@ -280,7 +280,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16intern
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/caras-tv.png?v=1764852739" group-title="CULTURA",¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="FTA",CARAS Tv
+#EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="CULTURA",CARAS Tv
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="CULTURA", Fashion TV
@@ -302,10 +302,15 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="Chikitoonz.pe@SD" tvg-logo="https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="INFANTILES",Chikitoonz (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="INFANTILES",Baby First 
 http://nocable.cc:8080/96589644/50412322/58765
+
+#EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="INFANTILES",Chinola TV 
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/62/ESAJ38000046O_20201029T004405.png" group-title="INFANTILES", EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
@@ -321,7 +326,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="REGIONALES",TeleCinco
-https://videohd.live:19360/8016/8016.m3u8
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
 
 
@@ -355,12 +360,14 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dexx1Rx.png" group-title="REGIONALES", RTN 
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="Canal7Salta.ar@SD" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="REGIONALES",Canal 7 Salta
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRJ518.png" group-title="REGIONALES",LRJ518 Canal 4
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1354192853.m3u8
 
-
+#EXTINF:-1 tvg-id="CanalTDC.ar@SD" tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="REGIONALES",Canal TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
 
 
@@ -387,8 +394,11 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",CANAL 9
 http://138.117.4.70:8075/channel9/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",OROMAR
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",CANAL MADRID
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/gigared.jpg?1582138984" group-title="MUNDO",EXTREMA
