@@ -18,15 +18,11 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/argentinisima-satelital-ar.png", ARGENTINISIMA 
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-9-televida-ar.png" , Televida 9
-https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png" , America 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png" , Telefe
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" http-referrer="https://vodgc.net" ,El Trece
 #EXTVLCOPT:http-referrer=https://vodgc.net
@@ -67,24 +63,14 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-hd17-spanish-hz-int.png" ,Bein Sports XTRA ñ
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/red-bull-tv-324x235.png"   ,Red Bull HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/apple-tv-plus.png?raw=true" ,FIFA TV
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/apple-tv-plus.png?raw=true" ,AYM SPORT
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/apple-tv-plus.png?raw=true" ,AYM SPORT+
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/tdp-es.png" ,Teledeporte
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Canal de las Estrellas" tvg-logo="https://www.gigared.com.ar/admin/uploads/canales/estrellas.jpg?v=1686165520" , Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="ESBD1300003VN" 4158" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20230426T015720SQUARE.png_20230426015721.png", TV Azteca Corazón
-https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 channel-id="samsung-ESBC1700001QI" tvg-id="ESBC1700001QI" 4178" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESBC1700001QI_20220511T011726.png" ,Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -92,17 +78,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-id="ITAJ2900001V9" 4163" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/ITAJ2900001V9_20220404T005827.png" , BBC DRAMA
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/apple-tv-plus.png?raw=true" ,ENT Channel 
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/apple-tv-plus.png?raw=true" ,ENT Family 
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/002/490/496/small/old-retro-tv-isolated-icon-free-vector.jpg", TV RETRO
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="runtime-series" tvg-name="Runtime series" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg", Runtime Series 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
@@ -131,25 +111,13 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/western-tv-vod.png?raw=true" ,Grjngo western
 https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/retro-vod.png?raw=true" ,RetroPlus
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/cine-real-vod.png?raw=true",Mega Cine 
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBA2200004G5" tvg-id="ESBA2200004G5" 4981" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png", MY TIME MOVIES 1
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png", MY TIME MOVIES 1
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-ESBA2200004G5" tvg-id="ESBA2200004G5" 4981" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png", MY TIME MOVIES 2
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="FRBA2200001SP" 4719" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200001SP_20220323T080158SQUARE.png_20220323080201.png" , QWEST JAZZ
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200001SP_20220323T080158SQUARE.png_20220323080201.png" , QWEST JAZZ
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
 
@@ -189,7 +157,7 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/fashionbox-vod.png?raw=true" , Fashion TV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" 286" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/16/ATAK3504502A_20200923T100642.png" , TV Historia
+#EXTINF:-1  tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/16/ATAK3504502A_20200923T100642.png" , TV Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
 
@@ -209,10 +177,6 @@ https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/galicia-es.png" ,Galicia TV 
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/apple-tv-plus.png?raw=true" Plim Plim
-https://xyktmobile00.s.gy/PPV911_CANCION_BEBE
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/apple-tv-plus.png?raw=true" Retro Magico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
